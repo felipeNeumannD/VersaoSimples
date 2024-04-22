@@ -1,0 +1,7 @@
+br\com\univates\guilhermetrabalho\WS\WebService$1.class
+br\com\univates\guilhermetrabalho\dao\PessoaDao.class
+br\com\univates\guilhermetrabalho\resources\JakartaEE10Resource.class
+br\com\univates\guilhermetrabalho\WS\ApplicationConfig.class
+br\com\univates\guilhermetrabalho\Model\Pessoa.class
+br\com\univates\guilhermetrabalho\JakartaRestConfiguration.class
+br\com\univates\guilhermetrabalho\WS\WebService.class
